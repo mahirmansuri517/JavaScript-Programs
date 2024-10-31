@@ -5,13 +5,12 @@ let isHappy = true
 
 
 
-
-
-
 firstName = 100
 console.log(firstName)
 
 const hourInDay = 24
+
+
 
 let userIntro = 
     'hi, my name is '+ firstName + ' ' 

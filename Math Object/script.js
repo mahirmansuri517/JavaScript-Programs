@@ -3,3 +3,6 @@ const height = +prompt('Please Enter Rectangle Height')
 
 console.log(width + height)
 document.write(`Rectangle area ${+ width + height}`)
+
+
+Math.
